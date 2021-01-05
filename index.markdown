@@ -15,7 +15,7 @@ title: ""
 <br/>
 
 ## Education
-* Graduate School of Information Security, *Ph. D*, KAIST
+* Graduate School of Information Security, *Ph. D.*, KAIST
   + 2016.03 ~
 * Graduate School of Information Security, *M.S.*, KAIST
   + 2014.03 ~ 2016.02
