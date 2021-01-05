@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "*" 
+title: "about." 
+title_separator          : "-"
+name: "hahah"
 email: hahah.kim@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Eunsoo Kim's Homepage
+description: "Eunsoo Kim's Homepage"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -29,18 +30,41 @@ github_username:  hahahkim
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+#  - jekyll-feed
+
+whitelist:
+  - jekyll-sitemap
+
+excerpt_separator: "\n\n"
 
 author:
     name: "Eunsoo Kim"
-    avatar: "/assets/images/bio-photo.jpg"
-    bio: "Hello"
+    avatar: "/assets/images/img.png"
+    bio: |
+        Ph.D student<br/>
+        Graduate School of<br/>
+        Information Security
+    location: "KAIST"
     links:
         - label: "hahah.kim (at) gmail.com"
           icon: "fas fa-fw fa-envelope-square"
           url: "mailto:hahah.kim@gmail.com"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/hahahkim"
+
+footer:
+    links:
+        - label: ""
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:hahah.kim@gmail.com"
+        - label: ""
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/hahahkim"
 
 
 # Exclude from processing.
