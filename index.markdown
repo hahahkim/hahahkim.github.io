@@ -5,6 +5,7 @@
 layout: single
 author_profile: true
 nav: none
+title: ""
 ---
 ## Research Interests
 * Software security
