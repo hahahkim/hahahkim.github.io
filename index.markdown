@@ -25,11 +25,11 @@ title: ""
 <br/>
 
 ## Publications
-* FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis
+* FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis \[[pdf](https://syssec.kaist.ac.kr/pub/2020/kim_acsac2020.pdf)\]
   + Mingeun Kim, Dongkwan Kim, ***Eunsoo Kim***, Suryeon Kim, Yeongjin Jang, and Yongdae Kim
   + Annual Computer Security Applications Conference _(ACSAC '20)_
 
-* PIkit: A New Kernel-Independent Processor-Interconnect Rootkit
+* PIkit: A New Kernel-Independent Processor-Interconnect Rootkit \[[pdf](https://syssec.kaist.ac.kr/pub/2016/song_usenix_sec2016.pdf)\]
   + Wonjun Song, Hyunwoo Choi, Junhong Kim, ***Eunsoo Kim***, Yongdae Kim, and John Kim
   + USENIX Conference on Security Symposium _(USENIX Security '16)_
 
