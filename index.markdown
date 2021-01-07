@@ -25,6 +25,10 @@ title: ""
 <br/>
 
 ## Publications
+* Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned \[[pdf](https://hahah.kim/assets/pub/kim-arxiv2020.pdf)\]
+  + Dongkwan Kim, ***Eunsoo Kim***, Sang Kil Cha, Sooel Son, and Yongdae Kim
+  + _arXiv_
+
 * FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis \[[pdf](https://syssec.kaist.ac.kr/pub/2020/kim_acsac2020.pdf)\]
   + Mingeun Kim, Dongkwan Kim, ***Eunsoo Kim***, Suryeon Kim, Yeongjin Jang, and Yongdae Kim
   + Annual Computer Security Applications Conference _(ACSAC '20)_
