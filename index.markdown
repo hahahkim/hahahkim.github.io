@@ -25,6 +25,10 @@ title: ""
 <br/>
 
 ## Publications
+* BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols
+  + ***Eunsoo Kim***, Dongkwan Kim, CheolJun Park, Insu Yun, and Yongdae Kim
+  + The Network and Distributed System Security Symposium _(NDSS '21)_
+
 * Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned \[[pdf](https://hahah.kim/assets/pub/kim-arxiv2020.pdf)\]
   + Dongkwan Kim, ***Eunsoo Kim***, Sang Kil Cha, Sooel Son, and Yongdae Kim
   + _arXiv_
