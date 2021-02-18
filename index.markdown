@@ -25,7 +25,7 @@ title: ""
 <br/>
 
 ## Publications
-* BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols
+* BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols \[[pdf](https://syssec.kaist.ac.kr/pub/2021/kim-ndss2021.pdf)\]
   + ***Eunsoo Kim***, Dongkwan Kim, CheolJun Park, Insu Yun, and Yongdae Kim
   + The Network and Distributed System Security Symposium _(NDSS '21)_
 
