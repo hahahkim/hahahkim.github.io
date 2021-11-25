@@ -25,6 +25,10 @@ title: ""
 <br/>
 
 ## Publications
+* Enabling the Large-Scale Emulation of Internet of Things Firmware With Heuristic Workarounds \[[pdf](https://ieeexplore.ieee.org/abstract/document/9431371)\]
+  + Dongkwan Kim, ***Eunsoo Kim***, Mingeun Kim, Yeongjin Jang, and Yongdae Kim
+  + IEEE Security & Privacy (Magazine)
+
 * BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols \[[pdf](https://syssec.kaist.ac.kr/pub/2021/kim-ndss2021.pdf)\]
   + ***Eunsoo Kim***, Dongkwan Kim, CheolJun Park, Insu Yun, and Yongdae Kim
   + The Network and Distributed System Security Symposium _(NDSS '21)_
