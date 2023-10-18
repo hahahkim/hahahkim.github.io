@@ -47,13 +47,12 @@ author:
     name: "Eunsoo Kim"
     avatar: "/assets/images/img.png"
     bio: |
-        Ph.D student<br/>
-        Graduate School of<br/>
-        Information Security
+        Security Researcher <br/>
+        @ Samsung Research
     links:
-        - label: "KAIST SysSec Lab."
-          icon: "fas fa-fw fa-map-marker-alt"
-          url: "https://www.syssec.kr"
+      #        - label: "KAIST SysSec Lab."
+      #          icon: "fas fa-fw fa-map-marker-alt"
+      #          url: "https://www.syssec.kr"
         - label: "hahah.kim@gmail.com"
           icon: "fas fa-fw fa-envelope-square"
           url: "mailto:hahah.kim@gmail.com"
