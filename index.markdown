@@ -27,7 +27,7 @@ title: ""
 ## Publications
 * BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software \[[pdf](https://www.usenix.org/system/files/usenixsecurity23-kim-eunsoo.pdf)\]
   + ***Eunsoo Kim***\*, Min Woo Baek\*, and CheolJun Park, Dongkwan Kim, Yongdae Kim and Insu Yun (\* co-first authors)
-  + USENIX Conference on Security Symposium _(USENIX Security '23)_
+  + USENIX Security Symposium _(USENIX Security '23)_
 
 * Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned \[[pdf](https://hahah.kim/assets/pub/kim-arxiv2020.pdf)\]
   + Dongkwan Kim, ***Eunsoo Kim***, Sang Kil Cha, Sooel Son, and Yongdae Kim
@@ -35,11 +35,11 @@ title: ""
 
 * Comparative analysis of baseband software implementation and cellular specification for layer 3 protocols
   + ***Eunsoo Kim***
-  + Ph. D. Thesis
+  + Ph. D. Thesis, KAIST, 2022
 
 * Enabling the Large-Scale Emulation of Internet of Things Firmware With Heuristic Workarounds \[[pdf](https://ieeexplore.ieee.org/abstract/document/9431371)\]
   + Dongkwan Kim, ***Eunsoo Kim***, Mingeun Kim, Yeongjin Jang, and Yongdae Kim
-  + IEEE Security & Privacy (Magazine)
+  + IEEE Security & Privacy (Magazine, Nov.-Dec. 2021)
 
 * BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols \[[pdf](https://syssec.kaist.ac.kr/pub/2021/kim-ndss2021.pdf)\]
   + ***Eunsoo Kim***\*, Dongkwan Kim\*, CheolJun Park, Insu Yun, and Yongdae Kim (\* co-first authors)
@@ -51,5 +51,5 @@ title: ""
 
 * PIkit: A New Kernel-Independent Processor-Interconnect Rootkit \[[pdf](https://syssec.kaist.ac.kr/pub/2016/song_usenix_sec2016.pdf)\]
   + Wonjun Song, Hyunwoo Choi, Junhong Kim, ***Eunsoo Kim***, Yongdae Kim, and John Kim
-  + USENIX Conference on Security Symposium _(USENIX Security '16)_
+  + USENIX Security Symposium _(USENIX Security '16)_
 
