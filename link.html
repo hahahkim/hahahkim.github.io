@@ -6,20 +6,29 @@
   <title>Redirecting…</title>
   <style>
     body { font-family: sans-serif; display: grid; place-items: center; min-height: 100vh; margin: 0; }
-    .card { padding: 20px 24px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,.05); }
+    .card { padding: 20px 24px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,.05); text-align:center; }
     .muted { color: #666; font-size: 14px; margin-top: 8px; }
   </style>
   <script>
     (async () => {
-      const info = (msg) => { const el = document.getElementById('info'); if (el) el.textContent = msg; };
+      const info = (msg) => { 
+        const el = document.getElementById('info'); 
+        if (el) el.textContent = msg; 
+      };
       try {
         const res = await fetch('link.txt', { cache: 'no-store' });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         let pin = (await res.text() || '').trim();
         if (pin.charCodeAt(0) === 0xfeff) pin = pin.slice(1); // BOM 제거
-        const url = "https://kahoot.it/?pin=" + pin;
-        info("이동 중… " + url);
-        window.location.replace(url);
+
+        if (pin) {
+          const url = "https://kahoot.it/?pin=" + pin;
+          info("이동 중… " + url);
+          window.location.replace(url);
+        } else {
+          // 빈 경우 안내 메시지 표시
+          info("2부 이벤트가 시작되면 접속해주세요 😉");
+        }
       } catch (err) {
         info("URL 로딩 실패: " + err.message);
       }
