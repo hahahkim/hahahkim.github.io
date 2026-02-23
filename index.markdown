@@ -14,6 +14,14 @@ title: ""
 
 <br/>
 
+## Work Experiences
+* Security Researcher, *Microsoft*
+  + 2026.02 ~ current
+* Security Researcher, *Samsung Electronics*
+  + 2022.03 ~ 2026.01
+
+<br/>
+
 ## Education
 * Graduate School of Information Security, *Ph. D.*, KAIST
   + 2016.03 ~ 2022.02
